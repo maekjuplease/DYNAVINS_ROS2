@@ -1,5 +1,5 @@
 # DYNAVINS_ROS2
-ROS2 wrapping package for dynaVINS
+ROS2 package for dynaVINS
 
 ## Prerequisites
 - Prefer to the below:
