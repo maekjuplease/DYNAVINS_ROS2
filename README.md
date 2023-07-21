@@ -19,5 +19,4 @@ Please refer to the following command:
 ros2 runa dynaVINS 
 
 ## Acknowledgments
-This repository is modified from [this](https://github.com/url-kaist/dynaVINS) repository. 
-- Thank you Seungwon Song and Hyungtae Lim for making this incredible work.
+This repository is modified from [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) repository and [dynaVINS](https://github.com/url-kaist/dynaVINS) repository. 
