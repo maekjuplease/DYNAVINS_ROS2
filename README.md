@@ -9,10 +9,10 @@ ROS2 wrapping package for dynaVINS
 
 ## How to build
 Clone repository to your ROS workspace
-$ mkdir -p colcon_ws/src
-$ cd ~/colcon_ws/src
-$ git clone https://github.com/maekjuplease/DYNAVINS_ROS2.git
-$ colcon build --symlink-install
+- mkdir -p colcon_ws/src
+- cd ~/colcon_ws/src
+- git clone https://github.com/maekjuplease/DYNAVINS_ROS2.git
+- colcon build --symlink-install
 
 ## How to use
 Please refer to the following command:
